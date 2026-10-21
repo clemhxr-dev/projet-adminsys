@@ -1,0 +1,14 @@
+﻿# Clés privées et secrets
+id_*
+!*.pub
+*.key
+*.pem
+
+# Machines virtuelles et gros fichiers
+*.vdi
+*.vbox*
+*.7z
+image/
+Logs/
+
+Debian_13_VBG/
